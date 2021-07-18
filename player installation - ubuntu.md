@@ -24,3 +24,10 @@ kubectl get pods -- get error msg Unable to read /etc/rancher/k3s/k3s.yaml, to b
 ```
 sudo chmod 644 /etc/rancher/k3s/k3s.yaml
 ```
+
+To install the locol media player
+===
+Git clone the repo into the server and deploy the agent.
+```
+sudo chmod 644 /etc/rancher/k3s/k3s.yaml
+```
