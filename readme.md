@@ -4,13 +4,7 @@ Overview
 These are the notes to get the Locol Media Player running on a computer with *Ubuntu Desktop*
 
 
-## Install k3s
-
-curl -sfL https://get.k3s.io | sh -
-
-## documentation
-
-https://rancher.com/docs/k3s/latest/en/
+Here is documentation for K3s: https://rancher.com/docs/k3s/latest/en/
 
 Install k3s
 ===
